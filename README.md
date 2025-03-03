@@ -26,3 +26,24 @@ This application provides concise summaries of textual content from various sour
    ```bash
    streamlit run app.py
 
+
+
+# Usage
+
+1.  **Input Content:** Paste the URL of the content you wish to summarize.
+
+2.  **Select Language:** Choose your preferred language for the summary.
+   
+3.  **Choose Output Format:** Opt for text or audio summary.
+
+4.  **Generate Summary:** Click the 'Summarize' button to receive the summary.
+  
+# Technologies Used
+
+1. Python: Core programming language.
+   
+2.Streamlit: Framework for building interactive web applications.
+
+3. Pytube: Library for accessing YouTube content.
+   
+4.Groq Models: Advanced AI models for natural language processing.
