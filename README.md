@@ -17,3 +17,12 @@ This application provides concise summaries of textual content from various sour
    ```bash
    git clone https://github.com/Aadi-stack/Text-Summarization.git
    cd Text-Summarization
+   
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the Application:**
+   ```bash
+   streamlit run app.py
+
