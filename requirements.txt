@@ -31,4 +31,3 @@ pytube
 numexpr
 huggingface_hub
 gTTS
-pyttsx3
